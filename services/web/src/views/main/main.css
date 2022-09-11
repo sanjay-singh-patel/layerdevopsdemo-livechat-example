@@ -30,11 +30,11 @@ body {
 }
 
 header {
-  color: #fefefe;
+  color: #f00efe;
 }
 
 .mainBody .sidebar .btn.active {
-  color: #adb5bd;
+  color: #45b5bd;
 }
 
 .mainBody .sidebar .btn {
